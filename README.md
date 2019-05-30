@@ -6,8 +6,8 @@ This is a tutorial project on how to use a single action with multiple buttons.
 
 The post can be found at the following places:
 
-- Dev.to
-- Readme.md in `/tutorials` in this repo.
+- [Dev.to](https://dev.to/maeganwilson_/how-to-use-the-same-action-function-with-multiple-buttons-357k)
+- Readme.md in `/tutorial` in this repo.
 
 # Did you like this?
 
