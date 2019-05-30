@@ -1,4 +1,4 @@
-# How to use the same action function with multiple buttons
+# How to use the same function with multiple buttons
 
 Some iOS apps require buttons to utilize the same function when tapped, think number buttons in a Calculator App. A number button on a calculator will perform the same action, store the number associated with it. Instead of declaring a function for each button, create one function that uses the button tag.
 
