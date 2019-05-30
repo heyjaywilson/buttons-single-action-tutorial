@@ -7,7 +7,8 @@ This is a tutorial project on how to use a single action with multiple buttons.
 The post can be found at the following places:
 
 - [Dev.to](https://dev.to/maeganwilson_/how-to-use-the-same-action-function-with-multiple-buttons-357k)
-- Readme.md in `/tutorial` in this repo.
+- [Medium](https://medium.com/@maeganwilson_/how-to-use-the-same-function-with-multiple-buttons-c927912eb359)
+- Readme.md in `/tutorial` in this repo
 
 # Did you like this?
 
